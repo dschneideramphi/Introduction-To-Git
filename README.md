@@ -6,6 +6,7 @@ Welcome! We will use this assignment to learn some new commands in a program cal
 We only need to do this step once for any project we ever do. We're setting up our author information as we make changes using git. To do this, run the following commands:
 
 `git config --global user.name "[your-name]"`
+
 `git config --global user.email "[your-email]"`
 
 ## Step 1 - Cloning
