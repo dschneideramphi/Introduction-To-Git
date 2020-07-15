@@ -1,6 +1,8 @@
 # Introduction-To-Git
 Welcome! We will use this assignment to learn some new commands in a program called *Git*
 
+*Teacher Note:* Make sure to assign this from GitHub Classroom so everyone has their own individual copy of this repository!
+
 ## Step 0 - Getting Setup
 
 We only need to do this step once for any project we ever do. We're setting up our author information as we make changes using git. To do this, run the following commands:
