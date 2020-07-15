@@ -65,3 +65,7 @@ Now that we've made our local changes, it's time to push them back to our Git re
 - `push`: tells Git we're about to send changes out to Github
 - `origin`: tells Git which **repository** to add our changes to. In this case, it's the same as where we downloaded it from
 - `master`: tells Git to update the 'master' set of code. In larger projects, there are usually several **branches** of code that people are working on (like an *alpha* branch or a *test* branch). For most of our projects, we'll just have one set of code - the Master branch
+
+## Step 5 - Checking The Update
+
+Reload this page on github.com and verify that your file is now here!
