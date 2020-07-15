@@ -13,11 +13,11 @@ We only need to do this step once for any project we ever do. We're setting up o
 
 In your Cloud9 terminal, we will **clone** this Git Repository. You can do that by typing:
 
-`git clone https://github.com/dschneideramphi/Introduction-To-Git`
+`git clone [Copy-And-Paste This Website Here!]`
 
 Once you've done this, a new folder will appear in your Cloud9 environment called Introduction-To-Git. We'll need to use the `cd` command to do that:
 
-`cd Introduction-To-Git`
+`cd Introduction-To-Git-[your GitHub Username]`
 
 **What's Happening:** Github is a website that coders use to store code so it can be easily shared and downloaded, and *Git* is a program & set of commands that lets coders manage their code. It helps them keep track of changes; it helps them keep track of which version they're on; it helps them collaborate together - it's super helpful. We've just used Git to download some code files called a **repository**. We're about to go through some steps where we can update and make changes to this set of code so everyone can see it.
 
